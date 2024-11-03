@@ -1,4 +1,4 @@
-# Python_RAG_News_Retreival_System
+# Python RAG News Retreival System
 
 This RAG model is modified from a part of my individual assignment in Text Analytics Module, during the Business Analytics course at Warwick Business School 2023-2024. For the Python code use in this model, please see Colab workbook: https://colab.research.google.com/drive/1WlqQmtkmjNK9OIV2fqmzc5Ura3tmSG2h?usp=sharing
 
